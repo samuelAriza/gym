@@ -1,6 +1,6 @@
 # GYM DB
 
-This project aims to create a database to efficiently manage all aspects of a gym's services. This includes the registration of client information, memberships, training areas, equipment, and staff. The database will allow for effective management and personalized service, improving the customer experience and facilitating strategic decision making for the operation of the gym.
+######This project aims to create a database to efficiently manage all aspects of a gym's services. This includes the registration of client information, memberships, training areas, equipment, and staff. The database will allow for effective management and personalized service, improving the customer experience and facilitating strategic decision making for the operation of the gym.
 ------------
 ### Sistema operativo usado:
 - Ubuntu 22.04.2 LTS
